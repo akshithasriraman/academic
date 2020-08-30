@@ -73,7 +73,8 @@ email: "akshitha@umich.edu"
 #- Researchers
 #- Visitors
 ---
+I am a computer systems researcher. My research interests are in the areas of computer architecture and systems software, focusing on designing efficient hyperscale web systems.
 
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research improves the performance, cost, and energy efficiency of hyperscale web services. Current web service systems introduce trade-offs between performance and numerous features essential for cost- and energy-efficient operation of data centers (e.g., high server utilization, continuous power management, and use of commodity hardware and software). Specifically, I have designed and implemented practical and scalable systems that improve service performance across the system stack, without sacrificing cost- and energy-efficiency in modern hyperscale web systems. 
 
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a recipient of the Facebook Fellowship (Distributed Systems), a UIUC Rising Stars in EECS Workshop participant, and a recipient of the Rackham Graduate Fellowship. My work has resulted in multiple research papers at top-tier computer architecture and systems venues like OSDI, ISCA, and ASPLOS.
